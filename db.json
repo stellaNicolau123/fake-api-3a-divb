@@ -1,0 +1,22 @@
+{
+    "cursos": [
+        {
+            "id": 1,
+            "nome": "M-Tec PI Desenvolvimento de Sistema",
+            "disciplinas": ["WEB III", "PAM II", "BD"],
+            "carga-horaria": 1200
+        },
+        {
+            "id": 2,
+            "nome": "M-Tec-N Informática para internet",
+            "disciplinas": ["WEB III", "PAM II", "BD"],
+            "carga-horaria": 1200
+        },
+        {
+            "id": 3,
+            "nome": "M-Tec-N Informática",
+            "disciplinas": ["Segurança digital", "Suporte em Informática", "Programação de Computadores II"],
+            "carga-horaria": 1200
+        }
+    ]
+}
